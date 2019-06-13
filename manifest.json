@@ -2,12 +2,6 @@
 	"manifest_version": 2,
 	"name": "Arkiv",
 	"version": "0.0.1",
-	"content_scripts": [
-		{
-			"matches": ["<all_urls>"],
-			"js": ["content.js"]
-		}
-	],
 	"permissions": ["tabs"],
 	"browser_action": {
 		"name": "Find archive"
