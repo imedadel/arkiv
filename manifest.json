@@ -8,5 +8,9 @@
 	},
 	"background": {
 		"scripts": ["background.js"]
+	},
+	"icons": {
+		"48": "arkiv48.png",
+		"128": "arkiv128.png"
 	}
 }
