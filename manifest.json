@@ -8,6 +8,7 @@
 			"js": ["content.js"]
 		}
 	],
+	"permissions": ["tabs"],
 	"browser_action": {
 		"name": "Find archive"
 	},
